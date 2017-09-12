@@ -8,7 +8,7 @@ namespace GroupProject.Controllers
 {
     public class DmitriController : Controller
     {
-        // GET: Dmitri
+        // GET: Dmitrigggg
         public ActionResult Index()
         {
             return View();
